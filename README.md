@@ -3,4 +3,4 @@
 拉库命令
 
 
-ql repo https://ghproxy.net/https://github.com/myloveskyfly/ql131521.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
+ql repo https://github.com/myloveskyfly/ql131521.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify|ql"
