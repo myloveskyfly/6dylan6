@@ -75,7 +75,7 @@ message = ""
 
 
 function getPlayTaskCenter() {
-  await $.wait(50)
+  //await $.wait(50)
   return new Promise(resolve => {
     $.post(taskPostClientActionUrl(`body={"client":"app"}&client=wh5&clientVersion=1.0.0`,`playTaskCenter`), async (err, resp, data) => {
       try {
