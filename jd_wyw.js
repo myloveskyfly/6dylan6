@@ -127,7 +127,7 @@ function taskPostClientActionUrl(body,functionId) {
       'Content-Type':'application/x-www-form-urlencoded',
       'Host':'api.m.jd.com',
       'Origin':'https://api.m.jd.com',
-      'Referer':'https://funearth.m.jd.com/babelDiy/Zeus/3BB1rymVZUo4XmicATEUSDUgHZND/index.html?source=6&lng=113.388032&lat=22.510956&sid=f9dd95649c5d4f0c0d31876c606b6cew&un_area=19_1657_52093_0',
+      'Referer':'https://funearth.m.jd.com/babelDiy/Zeus/3BB1rymVZUo4XmicATEUSDUgHZND/index.html',
       'Cookie': cookie,
     }
   }
