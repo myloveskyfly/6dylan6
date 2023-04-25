@@ -5,7 +5,7 @@
 nolan服务接口
  */
 
-const $ = new Env('口令转链接');
+const $ = new Env('6D口令转链接');
 let KCODE = process.env.KCODE || '';
 !(async () => {
 	if (KCODE) {

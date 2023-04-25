@@ -6,7 +6,7 @@ APP首页-领京豆
 
 const { cookie } = require('request');
 
-const $ = new Env('领京豆签到');
+const $ = new Env('6D领京豆签到');
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 let cookiesArr = [];
 if ($.isNode()) {

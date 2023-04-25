@@ -5,7 +5,7 @@
 updateTime: 2022/10/5
  */
 
-const $ = new Env('查看京享值权益');
+const $ = new Env('6D查看京享值权益');
 const notify = $.isNode() ? require('./sendNotify') : '';
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 let jdNotify = true;

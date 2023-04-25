@@ -2,7 +2,7 @@
 京洞察问卷通知
 35 9 * * * jd_insight.js
 */
-const $ = new Env('京洞察问卷通知');
+const $ = new Env('6D京洞察问卷通知');
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
