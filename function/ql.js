@@ -70,7 +70,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-1e9f53742d10.js"></script>
   
 
-  <title>jdpro/ql.js at c15a47e08b22d9605b4e75c82f2c3713f3751d52 · 6dylan6/jdpro</title>
+  <title>QLScript2/ql.js at 41b44d83f544a90bfd319db631be8e740fbebafa · ccwav/QLScript2</title>
 
 
 
@@ -80,10 +80,10 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="B2D2:3221:46C627:4D0E2F:644A0849" data-turbo-transient="true" /><meta name="html-safe-nonce" content="fb27ddc842f9d4776e85fd4c98fcded95a75fdc3acb6d1084e52d21d0b302cf5" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkIyRDI6MzIyMTo0NkM2Mjc6NEQwRTJGOjY0NEEwODQ5IiwidmlzaXRvcl9pZCI6IjE4MTg1NjgzMjgyMzUzNjU4MzUiLCJyZWdpb25fZWRnZSI6InNvdXRoZWFzdGFzaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="ad160447f3cc0340daf6272f89018bba504a623d81184d0c2963f8157d6ce7a7" data-turbo-transient="true" />
+  <meta name="request-id" content="B35E:6DB8:4CDCE1:532F81:644A0929" data-turbo-transient="true" /><meta name="html-safe-nonce" content="fb27ddc842f9d4776e85fd4c98fcded95a75fdc3acb6d1084e52d21d0b302cf5" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkIzNUU6NkRCODo0Q0RDRTE6NTMyRjgxOjY0NEEwOTI5IiwidmlzaXRvcl9pZCI6IjE4MTg1NjgzMjgyMzUzNjU4MzUiLCJyZWdpb25fZWRnZSI6InNvdXRoZWFzdGFzaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="9531c65c442fd90bc3246dfb0a29c2f057bba7fdd3de244a110097fe57d20ca2" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:391105716" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:411708887" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -114,16 +114,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="青龙脚本库. Contribute to 6dylan6/jdpro development by creating an account on GitHub.">
+      <meta name="description" content="新QLScript. Contribute to ccwav/QLScript2 development by creating an account on GitHub.">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6d9c36dea2823fbfb2996d6b4313493dd5d9b9dde84f8036d5689efee203446e/6dylan6/jdpro" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="jdpro/ql.js at c15a47e08b22d9605b4e75c82f2c3713f3751d52 · 6dylan6/jdpro" /><meta name="twitter:description" content="青龙脚本库. Contribute to 6dylan6/jdpro development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/6d9c36dea2823fbfb2996d6b4313493dd5d9b9dde84f8036d5689efee203446e/6dylan6/jdpro" /><meta property="og:image:alt" content="青龙脚本库. Contribute to 6dylan6/jdpro development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="jdpro/ql.js at c15a47e08b22d9605b4e75c82f2c3713f3751d52 · 6dylan6/jdpro" /><meta property="og:url" content="https://github.com/6dylan6/jdpro" /><meta property="og:description" content="青龙脚本库. Contribute to 6dylan6/jdpro development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/a3ba06fdea2e009494e97f2e4f63d804aacef83e7717caca7dd87cc0f8329350/ccwav/QLScript2" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="QLScript2/ql.js at 41b44d83f544a90bfd319db631be8e740fbebafa · ccwav/QLScript2" /><meta name="twitter:description" content="新QLScript. Contribute to ccwav/QLScript2 development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/a3ba06fdea2e009494e97f2e4f63d804aacef83e7717caca7dd87cc0f8329350/ccwav/QLScript2" /><meta property="og:image:alt" content="新QLScript. Contribute to ccwav/QLScript2 development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="QLScript2/ql.js at 41b44d83f544a90bfd319db631be8e740fbebafa · ccwav/QLScript2" /><meta property="og:url" content="https://github.com/ccwav/QLScript2" /><meta property="og:description" content="新QLScript. Contribute to ccwav/QLScript2 development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/73742142/ws?session=eyJ2IjoiVjMiLCJ1Ijo3Mzc0MjE0MiwicyI6MTEwMDExNjQ1MiwiYyI6MjUwNDE2Nzc3OSwidCI6MTY4MjU3MzQxOH0=--35a9c7cee3e6aef47247bf9c0112f18e7549addef890c8d9c39e311ce994a983" data-refresh-url="/_alive" data-session-id="d0e5ff9cf573c8e24f3c30b7cae2527b8a340753daa96c6d0357cf2bbed1328f">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/73742142/ws?session=eyJ2IjoiVjMiLCJ1Ijo3Mzc0MjE0MiwicyI6MTEwMDExNjQ1MiwiYyI6MjUxODU4NzI3NCwidCI6MTY4MjU3MzYxNn0=--99212863e4f8c7082c0384718a8648d48b40deae1887dd4854f525ef81b54389" data-refresh-url="/_alive" data-session-id="d0e5ff9cf573c8e24f3c30b7cae2527b8a340753daa96c6d0357cf2bbed1328f">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -146,13 +146,13 @@
 
         <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/6dylan6/jdpro git https://github.com/6dylan6/jdpro.git">
+  <meta name="go-import" content="github.com/ccwav/QLScript2 git https://github.com/ccwav/QLScript2.git">
 
-  <meta name="octolytics-dimension-user_id" content="86815944" /><meta name="octolytics-dimension-user_login" content="6dylan6" /><meta name="octolytics-dimension-repository_id" content="391105716" /><meta name="octolytics-dimension-repository_nwo" content="6dylan6/jdpro" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="391105716" /><meta name="octolytics-dimension-repository_network_root_nwo" content="6dylan6/jdpro" />
+  <meta name="octolytics-dimension-user_id" content="11731612" /><meta name="octolytics-dimension-user_login" content="ccwav" /><meta name="octolytics-dimension-repository_id" content="411708887" /><meta name="octolytics-dimension-repository_nwo" content="ccwav/QLScript2" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="411708887" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ccwav/QLScript2" />
 
 
 
-    <link rel="canonical" href="https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -224,7 +224,7 @@
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="391105716" data-scoped-search-url="/6dylan6/jdpro/search" data-owner-scoped-search-url="/users/6dylan6/search" data-unscoped-search-url="/search" data-turbo="false" action="/6dylan6/jdpro/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="411708887" data-scoped-search-url="/ccwav/QLScript2/search" data-owner-scoped-search-url="/users/ccwav/search" data-unscoped-search-url="/search" data-turbo="false" action="/ccwav/QLScript2/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
@@ -245,7 +245,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="GND4fV_JEynjHNvR-nhP2TsqDTQZKyTCMkiljVI0MN72Xlo1johT809jxEkxuXgNmt_DdPUlnpJxCX-cATnxIg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="BeIAfoX03ExOEEyuSNWk8ZGszw7AAYUSlFUXcj_VbHjrbKI2VLWcluJvUzaDFJMlMFkBTiwPP0LXFM1jbNithA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -444,7 +444,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;myloveskyfly&quot;,&quot;originating_url&quot;:&quot;https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="f4e7f7875aa7826e66532cb445a3b840a4f4ff0be74bac54bc86f8870560e7ed" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;myloveskyfly&quot;,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="e81ef47c61c1515b1ea549b7985791c899091b18f62d380500aadd9102853df7" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -452,7 +452,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/73742142?s=40&amp;v=4" width="20" height="20" alt="@myloveskyfly" />
       myloveskyfly
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DqNGf351v9jirgMXyb5X4aIYbKhh9ZFDNAVKW0AE4-MgWDVdw_0DU3-X1l3_GaeMW8tLCuyYQ7odA4yjCLfUZg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pYb5_yEKIjzj7RvtB0p0G9xmvBiPqM4fzp6hTygHSWuLfYrdnIKet37Uzqcx7YR2JbWbugLFHObnmGe3YLR-7g" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -487,7 +487,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzM3NDIxNDIiLCJ0IjoxNjgyNTczNDE4fQ==--3e4253c202bdcf12867fcc274ba6001532cddaced0abb4f840effea04bdbf1b2" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzM3NDIxNDIiLCJ0IjoxNjgyNTczNjE2fQ==--5ad1a657f42b86836abac9cf5ca63121633392ad607ab600bcecb4529c82fe8d" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -630,7 +630,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzM3NDIxNDIiLCJ0IjoxNjgyNTczNDE4fQ==--3e4253c202bdcf12867fcc274ba6001532cddaced0abb4f840effea04bdbf1b2" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzM3NDIxNDIiLCJ0IjoxNjgyNTczNjE2fQ==--5ad1a657f42b86836abac9cf5ca63121633392ad607ab600bcecb4529c82fe8d" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -647,7 +647,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js
+      return-to=/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js
       user-id="73742142"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -751,23 +751,23 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="6dylan6"
-                data-id="MDQ6VXNlcjg2ODE1OTQ0"
+                data-text="ccwav"
+                data-id="MDQ6VXNlcjExNzMxNjEy"
                 data-type="owner"
-                data-value="6dylan6"
+                data-value="ccwav"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >6dylan6<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >ccwav<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="jdpro"
-                data-id="MDEwOlJlcG9zaXRvcnkzOTExMDU3MTY="
+                data-text="QLScript2"
+                data-id="R_kgDOGIot1w"
                 data-type="repository"
-                data-value="jdpro"
+                data-value="QLScript2"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >jdpro<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >QLScript2<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -804,12 +804,12 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-503eebe8-0aef-4460-ae35-d83d0a146810" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-19f9bd94-980c-4e96-b58a-b5d44ac8b3a6" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="MDEwOlJlcG9zaXRvcnkzOTExMDU3MTY="
+        data-default-scope-id="R_kgDOGIot1w"
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -1237,16 +1237,16 @@
             </command-palette-item-group>
 
             <command-palette-page
-              data-page-title="6dylan6"
-              data-scope-id="MDQ6VXNlcjg2ODE1OTQ0"
+              data-page-title="ccwav"
+              data-scope-id="MDQ6VXNlcjExNzMxNjEy"
               data-scope-type="owner"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
             >
             </command-palette-page>
             <command-palette-page
-              data-page-title="jdpro"
-              data-scope-id="MDEwOlJlcG9zaXRvcnkzOTExMDU3MTY="
+              data-page-title="QLScript2"
+              data-scope-id="R_kgDOGIot1w"
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -1257,14 +1257,14 @@
         <command-palette-page data-is-root>
         </command-palette-page>
           <command-palette-page
-            data-page-title="6dylan6"
-            data-scope-id="MDQ6VXNlcjg2ODE1OTQ0"
+            data-page-title="ccwav"
+            data-scope-id="MDQ6VXNlcjExNzMxNjEy"
             data-scope-type="owner"
           >
           </command-palette-page>
           <command-palette-page
-            data-page-title="jdpro"
-            data-scope-id="MDEwOlJlcG9zaXRvcnkzOTExMDU3MTY="
+            data-page-title="QLScript2"
+            data-scope-id="R_kgDOGIot1w"
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -1595,12 +1595,12 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/6dylan6/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/6dylan6">
-        6dylan6
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/ccwav/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ccwav">
+        ccwav
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/6dylan6/jdpro">jdpro</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/ccwav/QLScript2">QLScript2</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1615,7 +1615,7 @@
       
 
   <li>
-        <include-fragment loading="lazy" src="/notifications/391105716/watch_subscription?aria_id_prefix=repository-details&amp;button_block=false&amp;show_count=true">
+        <include-fragment loading="lazy" src="/notifications/411708887/watch_subscription?aria_id_prefix=repository-details&amp;button_block=false&amp;show_count=true">
     <div data-hide-on-error>
         
             <button disabled="disabled" aria-label="Watching a repository" type="button" data-view-component="true" class="tooltipped tooltipped-n Button--secondary Button--small Button">    <span class="Button-content">
@@ -1650,32 +1650,32 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/6dylan6/jdpro/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:391105716,&quot;originating_url&quot;:&quot;https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="2563708d2976a428c483cc59b0f724dfc70478d4acfe663d8c48495f974c2dd6" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/ccwav/QLScript2/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:411708887,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="d3b0977dbcef0c1f37ee2e95ea28d68aa4d4bfc55512bed564d14bf6d5829828" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="1,015" data-view-component="true" class="Counter">1k</span>
-</a>    <tool-tip id="tooltip-0a6958c9-11c3-4953-80ec-a6fb5e2fe258" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of 6dylan6/jdpro</tool-tip>
+          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="291" data-view-component="true" class="Counter">291</span>
+</a>    <tool-tip id="tooltip-1fa52a50-615e-4aed-b1ab-4bcd95603049" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of ccwav/QLScript2</tool-tip>
 </div>
-      <details group_item="true" id="my-forks-menu-391105716" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
+      <details group_item="true" id="my-forks-menu-411708887" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/6dylan6/jdpro/my_forks_menu_content?can_fork=true"
+      src="/ccwav/QLScript2/my_forks_menu_content?can_fork=true"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-eedc83">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-81f015">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-eedc83"
+        id="filter-menu-81f015"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1717,34 +1717,34 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/6dylan6/jdpro/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Q4_4k1XF8ojTQ8G8qauDJusNyEJiQV53ghX2Wf02RJgeUQvJN0P42YvTqi5XM71oY6qJN0gW7vRHX4-WicUW0Q" autocomplete="off" />
-          <input type="hidden" value="pAKm6Gra28XFqjPmtNUEbmScnHCDncnJ2UeR74AZ96b53FWyCFzRlJ06WHRKTTog7DvdBanKeUocDegg9Oql7w" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/ccwav/QLScript2/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OO0PFWV1zpAXZ4ykKVf79CS3XcTU9jWnPd215ephWnR0brHwY7kv1cQYB-H3W93kc_OfXV63reNDOckyw10O_Q" autocomplete="off" />
+          <input type="hidden" value="8M9XWq49R-pDXvnQ5B9iXoUcgTRbQjtR80xyzdg31QS8TOm_qPGmr5AhcpU6E0RO0lhDrdEDoxWNqA4a8QuBjQ" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:391105716,&quot;originating_url&quot;:&quot;https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="14411e720d26a39b7e9de05f8cb7655ca456a296663803dac56ff5eb12b1b261" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (3746)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:411708887,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="e08d84554bbf0d9b6e86510da175b4f764a3103dacd58d2e576076bd7b03b81e" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (375)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Starred
-</span>              <span id="repo-stars-counter-unstar" aria-label="3746 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="3,746" data-view-component="true" class="Counter js-social-count">3.7k</span>
-</button></form>        <details id="details-user-list-391105716-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>              <span id="repo-stars-counter-unstar" aria-label="375 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="375" data-view-component="true" class="Counter js-social-count">375</span>
+</button></form>        <details id="details-user-list-411708887-starred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/6dylan6/jdpro/lists"
+      src="/ccwav/QLScript2/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-a0d7c5">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7bec43">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-a0d7c5"
+        id="filter-menu-7bec43"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1765,33 +1765,33 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/6dylan6/jdpro/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TO09JflUvqG-xMHwsZTzv0eYd9wK7ZVJIAYO1kfJyIeAKFhncUoBR7r8OwGe8c0ngcDAtCiBLi1SnZhJHqIojg" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/ccwav/QLScript2/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QrN83pz254br3jXCDQSsIRXMa-b_C_672L8z5CELprs8YP9OBBjfb94-8nxzJLF9Moz2FVe6ZutYAE2j_jrXjg" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:391105716,&quot;originating_url&quot;:&quot;https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="018c8049b06534eee76dab82a6d6c5f24449640782e61b2e6d608539ada987a0" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (3746)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:411708887,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="8b6511076483f2674f6c67932a958a81d030174a0f091153644377d8b1a2464d" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (375)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
               Star
-</span>              <span id="repo-stars-counter-star" aria-label="3746 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="3,746" data-view-component="true" class="Counter js-social-count">3.7k</span>
-</button></form>        <details id="details-user-list-391105716-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>              <span id="repo-stars-counter-star" aria-label="375 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="375" data-view-component="true" class="Counter js-social-count">375</span>
+</button></form>        <details id="details-user-list-411708887-unstarred" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/6dylan6/jdpro/lists"
+      src="/ccwav/QLScript2/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7b5cec">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ab6dca">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7b5cec"
+        id="filter-menu-ab6dca"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1829,7 +1829,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/6dylan6/jdpro" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /6dylan6/jdpro" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/ccwav/QLScript2" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /ccwav/QLScript2" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1841,43 +1841,31 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/6dylan6/jdpro/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /6dylan6/jdpro/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/ccwav/QLScript2/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /ccwav/QLScript2/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
         <span data-content="Issues">Issues</span>
-          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="370" data-view-component="true" class="Counter">370</span>
+          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/6dylan6/jdpro/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /6dylan6/jdpro/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/ccwav/QLScript2/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /ccwav/QLScript2/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
         <span data-content="Pull requests">Pull requests</span>
-          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="4" data-view-component="true" class="Counter">4</span>
+          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="discussions-tab" href="/6dylan6/jdpro/discussions" data-tab-item="i3discussions-tab" data-selected-links="repo_discussions /6dylan6/jdpro/discussions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g g" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Discussions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
-</svg>
-        <span data-content="Discussions">Discussions</span>
-          <span id="discussions-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/6dylan6/jdpro/actions" data-tab-item="i4actions-tab" data-selected-links="repo_actions /6dylan6/jdpro/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/ccwav/QLScript2/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /ccwav/QLScript2/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1889,30 +1877,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/6dylan6/jdpro/projects" data-tab-item="i5projects-tab" data-selected-links="repo_projects new_repo_project repo_project /6dylan6/jdpro/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
-</svg>
-        <span data-content="Projects">Projects</span>
-          <span id="projects-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/6dylan6/jdpro/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /6dylan6/jdpro/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/ccwav/QLScript2/security" data-tab-item="i4security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /ccwav/QLScript2/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/6dylan6/jdpro/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/ccwav/QLScript2/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/6dylan6/jdpro/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /6dylan6/jdpro/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/ccwav/QLScript2/pulse" data-tab-item="i5insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /ccwav/QLScript2/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1934,35 +1910,27 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /6dylan6/jdpro" href="/6dylan6/jdpro">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /ccwav/QLScript2" href="/ccwav/QLScript2">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /6dylan6/jdpro/issues" href="/6dylan6/jdpro/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /ccwav/QLScript2/issues" href="/ccwav/QLScript2/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /6dylan6/jdpro/pulls" href="/6dylan6/jdpro/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /ccwav/QLScript2/pulls" href="/ccwav/QLScript2/pulls">
                   Pull requests
 </a>              </li>
-              <li data-menu-item="i3discussions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_discussions /6dylan6/jdpro/discussions" href="/6dylan6/jdpro/discussions">
-                  Discussions
-</a>              </li>
-              <li data-menu-item="i4actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /6dylan6/jdpro/actions" href="/6dylan6/jdpro/actions">
+              <li data-menu-item="i3actions-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /ccwav/QLScript2/actions" href="/ccwav/QLScript2/actions">
                   Actions
 </a>              </li>
-              <li data-menu-item="i5projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /6dylan6/jdpro/projects" href="/6dylan6/jdpro/projects">
-                  Projects
-</a>              </li>
-              <li data-menu-item="i6security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /6dylan6/jdpro/security" href="/6dylan6/jdpro/security">
+              <li data-menu-item="i4security-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /ccwav/QLScript2/security" href="/ccwav/QLScript2/security">
                   Security
 </a>              </li>
-              <li data-menu-item="i7insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /6dylan6/jdpro/pulse" href="/6dylan6/jdpro/pulse">
+              <li data-menu-item="i5insights-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /ccwav/QLScript2/pulse" href="/ccwav/QLScript2/pulse">
                   Insights
 </a>              </li>
           </ul>
@@ -1980,7 +1948,7 @@
     <div id="repo-content-pjax-container" class="repository-content " >
       <a href="https://github.dev/" class="d-none js-github-dev-shortcut" data-hotkey=".">Open in github.dev</a>
   <a href="https://github.dev/" class="d-none js-github-dev-new-tab-shortcut" data-hotkey="Shift+.,Shift+&gt;,&gt;" target="_blank">Open in a new github.dev tab</a>
-    <a class="d-none" data-hotkey="," target="_blank" href="/codespaces/new/6dylan6/jdpro/tree/c15a47e08b22d9605b4e75c82f2c3713f3751d52?resume=1">Open in codespace</a>
+    <a class="d-none" data-hotkey="," target="_blank" href="/codespaces/new/ccwav/QLScript2/tree/41b44d83f544a90bfd319db631be8e740fbebafa?resume=1">Open in codespace</a>
 
 
 
@@ -2005,7 +1973,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2013,14 +1981,14 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:391105716,&quot;originating_url&quot;:&quot;https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="a3843defffb222a23e766717a35c4709cbe86c87b1ee4942b18a8cfc88b519f3">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:411708887,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="a654aab2abb39460e632ac8eff6433ed37765947a625ceb6ddf99f80b044f05d">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>c15a47e08b</span>
+      <span class="css-truncate-target" data-menu-button>41b44d83f5</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -2064,12 +2032,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/6dylan6/jdpro/refs"
+            query-endpoint="/ccwav/QLScript2/refs"
             
-            cache-key="v0:1627695444.412261"
-            current-committish="YzE1YTQ3ZTA4YjIyZDk2MDViNGU3NWM4MmYyYzM3MTNmMzc1MWQ1Mg=="
+            cache-key="v0:1642986964.34632"
+            current-committish="NDFiNDRkODNmNTQ0YTkwYmZkMzE5ZGI2MzFiZThlNzQwZmJlYmFmYQ=="
             default-branch="bWFpbg=="
-            name-with-owner="NmR5bGFuNi9qZHBybw=="
+            name-with-owner="Y2N3YXYvUUxTY3JpcHQy"
             prefetch-on-mouseover
           >
 
@@ -2094,7 +2062,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/6dylan6/jdpro/blob/{{ urlEncodedRefName }}/function/ql.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/ccwav/QLScript2/blob/{{ urlEncodedRefName }}/ql.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2104,7 +2072,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/6dylan6/jdpro/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/ccwav/QLScript2/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2118,11 +2086,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/6dylan6/jdpro/refs"
-            cache-key="v0:1627695444.412261"
-            current-committish="YzE1YTQ3ZTA4YjIyZDk2MDViNGU3NWM4MmYyYzM3MTNmMzc1MWQ1Mg=="
+            query-endpoint="/ccwav/QLScript2/refs"
+            cache-key="v0:1642986964.34632"
+            current-committish="NDFiNDRkODNmNTQ0YTkwYmZkMzE5ZGI2MzFiZThlNzQwZmJlYmFmYQ=="
             default-branch="bWFpbg=="
-            name-with-owner="NmR5bGFuNi9qZHBybw=="
+            name-with-owner="Y2N3YXYvUUxTY3JpcHQy"
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2136,7 +2104,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/6dylan6/jdpro/blob/{{ urlEncodedRefName }}/function/ql.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/ccwav/QLScript2/blob/{{ urlEncodedRefName }}/ql.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
@@ -2154,7 +2122,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/6dylan6/jdpro/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/ccwav/QLScript2/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2197,9 +2165,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/6dylan6/jdpro/tree/c15a47e08b22d9605b4e75c82f2c3713f3751d52"><span>jdpro</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/6dylan6/jdpro/tree/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function"><span>function</span></a></span><span class="separator">/</span><strong class="final-path">ql.js</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/ccwav/QLScript2/tree/41b44d83f544a90bfd319db631be8e740fbebafa"><span>QLScript2</span></a></span></span><span class="separator">/</span><strong class="final-path">ql.js</strong>
       <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:391105716,&quot;ref&quot;:&quot;c15a47e08b22d9605b4e75c82f2c3713f3751d52&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="870620d1ac38556b6e34bee9c47857d0862198468ed8bbb84fa00de15ff1f6a4" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="3fc9fc332640ec7b651ef20533101aa0ec5655729909700a00c212b37e7a5f56" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2214,19 +2182,97 @@
 </svg>
         </button>
       </header>
-      <div class="SelectMenu-list">
-          <div class="SelectMenu-blankslate">
-            <p class="mb-0 color-fg-muted">
-              No definitions found in this file.
-            </p>
-          </div>
-        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
         </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L23">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>getToken</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L28">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>getEnvs</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L44">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>getEnvsCount</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L49">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>addEnv</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L69">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>updateEnv</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L90">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>updateEnv11</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L111">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>DisableCk</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L127">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>EnableCk</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L143">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>getstatus</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L161">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>getEnvById</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L179">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>getEnvByPtPin</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:411708887,&quot;ref&quot;:&quot;41b44d83f544a90bfd319db631be8e740fbebafa&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="ccd91ff84a007dc9b4f85cd19184ca91d0e5d4a1ec59385965db4698b300c375" href="/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js#L190">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>delEnv</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
       </div>
       <footer class="SelectMenu-footer">
         <div class="d-flex flex-justify-between">
-          Code navigation not available for this commit
-          <svg class="octicon octicon-dot-fill text-light-gray" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path></svg>
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path></svg>
         </div>
       </footer>
     </div>
@@ -2234,7 +2280,7 @@
 </details>
 
   </h2>
-    <a href="/6dylan6/jdpro/find/c15a47e08b22d9605b4e75c82f2c3713f3751d52" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/ccwav/QLScript2/find/41b44d83f544a90bfd319db631be8e740fbebafa" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2243,7 +2289,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:391105716,&quot;originating_url&quot;:&quot;https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="e90398af6bfae580ce2d54646f41dcae4383ad6325fea87a095c914b8a32c76c" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/6dylan6/jdpro/find/c15a47e08b22d9605b4e75c82f2c3713f3751d52">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:411708887,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="dd38b2981e40e4c9974c6bd5348edf3e2a992d0958715b376d6beec255c5c141" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/ccwav/QLScript2/find/41b44d83f544a90bfd319db631be8e740fbebafa">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2261,13 +2307,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="function/ql.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="ql.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2295,83 +2341,20 @@
   
 </div></div>
 
-    <include-fragment src="/6dylan6/jdpro/spoofed_commit_check/c15a47e08b22d9605b4e75c82f2c3713f3751d52" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/ccwav/QLScript2/spoofed_commit_check/41b44d83f544a90bfd319db631be8e740fbebafa" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/6dylan6/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/6dylan6"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/86815944?s=48&amp;v=4" width="24" height="24" alt="@6dylan6" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/6dylan6/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/6dylan6">6dylan6</a>
+  <include-fragment src="/ccwav/QLScript2/contributors/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="update" class="Link--secondary" href="/6dylan6/jdpro/commit/832c3236d2e48fb6aa892c03e48ca75b63396c7d">update</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/6dylan6/jdpro/commit/832c3236d2e48fb6aa892c03e48ca75b63396c7d/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/6dylan6/jdpro/commit/832c3236d2e48fb6aa892c03e48ca75b63396c7d" data-pjax>832c323</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-03-27T10:37:32Z" class="no-wrap">Mar 27, 2022</relative-time></span>
-          </span>
-
-          <a data-pjax href="/6dylan6/jdpro/commits/main/function/ql.js" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/6dylan6/jdpro/contributors-list/main/function/ql.js" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2404,11 +2387,11 @@
       
 
     <div class="BtnGroup">
-        <a href="/6dylan6/jdpro/raw/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js" id="raw-url" group_item="true" data-view-component="true" class="Button--secondary Button--small Button">    <span class="Button-content">
+        <a href="/ccwav/QLScript2/raw/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js" id="raw-url" group_item="true" data-view-component="true" class="Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a href="/6dylan6/jdpro/blame/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash Button--secondary Button--small Button">    <span class="Button-content">
+          <a href="/ccwav/QLScript2/blame/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -2417,21 +2400,21 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/6dylan6/jdpro/edit/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RxVRwMPTY2aM2lri3ezdZXOCxE6mdMdADYBgSkh_cRxZN8YqO3osLvOYqi1TbZcF9OK--xzszSMZ0e4uZ7iE6Q" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/ccwav/QLScript2/edit/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HDl_VPHZyYo53ojmv-eRNX5luVTuxLwQM_3hmAnty6NwGvZD-osjvkq8TPC-8rHKxpPln_12z6Lzjjgq1fWmRQ" autocomplete="off" />
       <button disabled="disabled" title="You must be on a branch to make or propose changes to this file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:391105716,&quot;actor_id&quot;:73742142,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:411708887,&quot;actor_id&quot;:73742142,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/6dylan6/jdpro/edit/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZxMuY9lSgoJfZo34LDIOwKcqCZBrRI9AEC8ouaH75Dd5MbmJIfvNyiAkfTeis0SgIEpzJdHchSMEfqbdjjwRwg" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/ccwav/QLScript2/edit/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0CRLozmDiA3dpqQ930nDRyFTAE26vQt1u-gpchCrfne8B8K0MtFiOa7EYCveXOO4maVchqkPeMd7m_DAzLMTkQ" autocomplete="off" />
               <button disabled="disabled" title="You must be on a branch to make or propose changes to this file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
-            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:391105716,&quot;actor_id&quot;:73742142,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:411708887,&quot;actor_id&quot;:73742142,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
@@ -2445,10 +2428,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/6dylan6/jdpro/raw/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/ccwav/QLScript2/raw/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:391105716,&quot;originating_url&quot;:&quot;https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="0bf53fc386d5a0c22013948073b0292b9f62666308de90b84d891ae2d4c7d0c3" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:411708887,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="d5c1198afdcbabfa83755c91a72e0ad6f88b657ffa1d9ad4a3f71f8d61739115" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
@@ -2489,7 +2472,7 @@
           aria-haspopup="true"
           aria-label="Possible actions"
           
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:391105716,&quot;actor_id&quot;:73742142,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:true}}"
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:411708887,&quot;actor_id&quot;:73742142,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
@@ -2500,15 +2483,15 @@
             <li>
             </li>
           <li>
-            <a class="dropdown-item" href="/6dylan6/jdpro/raw/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js">
+            <a class="dropdown-item" href="/ccwav/QLScript2/raw/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/6dylan6/jdpro/raw/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/ccwav/QLScript2/raw/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:391105716,&quot;originating_url&quot;:&quot;https://github.com/6dylan6/jdpro/blob/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="0bf53fc386d5a0c22013948073b0292b9f62666308de90b84d891ae2d4c7d0c3">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:411708887,&quot;originating_url&quot;:&quot;https://github.com/ccwav/QLScript2/blob/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js&quot;,&quot;user_id&quot;:73742142}}" data-hydro-click-hmac="d5c1198afdcbabfa83755c91a72e0ad6f88b657ffa1d9ad4a3f71f8d61739115">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2531,7 +2514,7 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/6dylan6/jdpro/blame/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js">
+              <a class="dropdown-item" href="/ccwav/QLScript2/blame/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js">
                 View blame
               </a>
             </li>
@@ -2570,7 +2553,7 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="function/ql.js">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="ql.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
           <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-s>&#39;use strict&#39;</span><span class=pl-kos>;</span></td>
@@ -3414,7 +3397,7 @@
     <details-menu>
 
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
-      style="width:220px"
+      style="width:185px"
       >
         <li>
           <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
@@ -3426,9 +3409,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/6dylan6/jdpro/blame/c15a47e08b22d9605b4e75c82f2c3713f3751d52/function/ql.js">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/6dylan6/jdpro/issues/new">Reference in new issue</a></li>
-          <li><a class="dropdown-item" id="js-new-discussion" role="menuitem" href="/6dylan6/jdpro/discussions/new">Reference in new discussion</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ccwav/QLScript2/blame/41b44d83f544a90bfd319db631be8e740fbebafa/ql.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/ccwav/QLScript2/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -3452,8 +3434,8 @@
 
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
-     data-tagsearch-url="/6dylan6/jdpro/find-definition"
-     data-tagsearch-ref="c15a47e08b22d9605b4e75c82f2c3713f3751d52"
+     data-tagsearch-url="/ccwav/QLScript2/find-definition"
+     data-tagsearch-ref="41b44d83f544a90bfd319db631be8e740fbebafa"
      data-tagsearch-code-nav-context="BLOB_VIEW">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
@@ -3471,7 +3453,7 @@
   <details-dialog
     class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-visible"
       aria-label="Provide feedback"
-      src="/6dylan6/jdpro/repos/code_nav_survey"
+      src="/ccwav/QLScript2/repos/code_nav_survey"
       
     >
     <div class="Box-header">
