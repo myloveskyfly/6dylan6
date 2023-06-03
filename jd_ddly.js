@@ -17,7 +17,7 @@ cron "35 7 * * *" script-path=jd_ddly.js tag=东东乐园
 ============小火箭=========
 东东乐园 = type=cron,script-path=jd_ddly.js, cronexpr="35 7 * * *", timeout=3600, enable=true
  */
-const $ = new Env('东东乐园');
+const $ = new Env('6dy_东东乐园');
 //Node.js用户请在jdCookie.js处填写京东ck;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 

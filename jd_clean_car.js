@@ -35,7 +35,7 @@ pin3@&@不清空👉该pin不清空
 
 */
 
-const $ = new Env('6dy清空购物车_开源');
+const $ = new Env('6dy_清空购物车');
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 const notify = $.isNode() ? require('./sendNotify') : '';
 const dy = require('./function/dylanx.js');
