@@ -3,4 +3,4 @@
 拉库命令
 
 
-ql repo https://github.com/myloveskyfly/ql131521.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify|ql"
+ql repo https://github.com/myloveskyfly/6dylan6.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify|ql"
